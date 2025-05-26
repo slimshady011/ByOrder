@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot using Telegraf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf"
+  ],
+  "author": "your-name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0",
+    "ffmpeg": "^0.0.4",
+    "mysql2": "^3.14.1",
+    "telegraf": "^4.16.3",
+    "unzipper": "^0.12.3"
+  }
+}

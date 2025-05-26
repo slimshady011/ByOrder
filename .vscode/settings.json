@@ -1,0 +1,18 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "yamanote.proxy.rlwy.net",
+      "port": 38049,
+      "driver": "MySQL",
+      "name": "1#",
+      "database": "railway",
+      "username": "root",
+      "password": "RDrxludGFkzSBNvFXzFtkjqqSzGaMdcF"
+    }
+  ]
+}

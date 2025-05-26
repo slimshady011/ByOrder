@@ -1,0 +1,6 @@
+# Binaries
+bin/ffmpeg.exe
+
+
+# Node modules
+node_modules/
